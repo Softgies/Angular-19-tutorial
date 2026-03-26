@@ -1,0 +1,10 @@
+Angular 19 Setup in Windows OS
+
+· Install Node
+· Install Angular CLI
+. Create Angular App
+
+
+ Useful Links:
+🔹 Download Node.js: https://nodejs.org/
+🔹 Angular Official Documentation: https://angular.io/docs
